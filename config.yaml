@@ -1,4 +1,4 @@
-baseURL: https://lrmn-vp.is-a.fun   # todo: change site url.
+baseURL: https://lrmn-vp.netlify.app   # todo: change site url.
 title: L RMN # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
