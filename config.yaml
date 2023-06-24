@@ -1,4 +1,3 @@
-baseURL: https://lrmn-vp.netlify.app   # todo: change site url.
 title: L RMN # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
