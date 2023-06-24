@@ -1,0 +1,91 @@
+baseURL: https://lrmn-vp.is-a.fun   # todo: change site url.
+title: L RMN # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/banner.png
+  logo: /logo.png
+  subtitle: いつか、私がヒトじゃなくなっても # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: L RMN # todo: set your full name.
+  dontShowSource: true # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        portraits: 4
+        all: 6
+        actionshots: 4
+        default: 2
+        outdoors: 5
+        interior: 3
+        blackwhite: 3
+      mobile:
+        default: 2
+        all: 3
+        portraits: 2
+  socials:
+    # todo: change these links.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:lrmn.dev@gmail.com'
+      landing: false
+    - icon: 'fa fa-globe fa-lg'
+      url: 'https://lrmn.is-a.fun'
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://instagram.com/romanroman.nya'
+    - icon: 'fab fa-pinterest fa-lg'
+      url: 'https://id.pinterest.com/romanromannya'
+  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - work
+    - all
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+build:
+  timeout: "1000s"
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: work
+      url: /work/
+      weight: 1
+    - name: portraits
+      url: /tags/portraits/
+      weight: 2
+    - name: actionshots
+      url: /tags/actionshots/
+      weight: 3
+    - name: outdoors
+      url: /tags/outdoors/
+      weight: 4
+    - name: interior
+      url: /tags/interior/
+      weight: 5
+    - name: blackwhite
+      url: /tags/blackwhite/
+      weight: 6
+      slug: black-white
+    - name: all
+      url: /tags/all/
+      weight: 7
+    - name: thedude
+      url: /thedude/
+      weight: 8
