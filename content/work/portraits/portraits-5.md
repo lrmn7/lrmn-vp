@@ -6,7 +6,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687428490/VIRTUAL-PHOTOGRAPHY/godofwar/god2_ylbgry.png
 multipleColumn: true
 title: God Of War
-date: 2021-04-02
 tags:
 - portraits
 - all

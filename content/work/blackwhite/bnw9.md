@@ -4,7 +4,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687378602/VIRTUAL-PHOTOGRAPHY/lrmn1a_bltsks.png
 multipleColumn: true
 title: Uncharted4
-date: 2021-04-02
 tags:
 - work
 - blackwhite

@@ -6,7 +6,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/a_hflip/v1687375979/VIRTUAL-PHOTOGRAPHY/thecrew/Pic_20211220_132729_3840x2160_inkywy.jpg
 multipleColumn: true
 title: The Crew 2
-date: 2021-04-02
 tags:
 - outdoors
 - all

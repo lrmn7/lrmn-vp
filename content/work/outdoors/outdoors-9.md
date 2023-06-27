@@ -5,7 +5,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687375732/VIRTUAL-PHOTOGRAPHY/assasincreed/lrmn_10_alxpqo.jpg
 multipleColumn: true
 title: Assasin Creed
-date: 2021-04-02
 tags:
 - outdoors
 - all

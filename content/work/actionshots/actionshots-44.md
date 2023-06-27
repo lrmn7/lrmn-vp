@@ -3,7 +3,6 @@ weight: 23
 images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687467103/VIRTUAL-PHOTOGRAPHY/Swingularity-lrmn_gpgucx.png
 title: Swingularity
-date: 2021-04-02
 tags:
 - work
 - actionshots

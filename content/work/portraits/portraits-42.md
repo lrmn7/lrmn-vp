@@ -5,7 +5,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687375559/VIRTUAL-PHOTOGRAPHY/daysgone/DAYS-GONE15_abhphb.png
 multipleColumn: true
 title: Days Gone
-date: 2021-04-02
 tags:
 - portraits
 - all

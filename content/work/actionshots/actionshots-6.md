@@ -5,7 +5,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687432088/VIRTUAL-PHOTOGRAPHY/daysgone/DAYS_GONE_20191014201800.1640x1080_zmvqke.jpg
 multipleColumn: true
 title: Days Gone
-date: 2021-04-02
 tags:
 - actionshots
 - all

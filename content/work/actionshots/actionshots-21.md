@@ -3,7 +3,6 @@ weight: 24
 images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687467669/VIRTUAL-PHOTOGRAPHY/lrmn-aloyyy_oz75jb.png
 title: Horizon Zero Dawn
-date: 2021-04-02
 tags:
 - work
 - actionshots

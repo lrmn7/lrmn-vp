@@ -4,7 +4,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687376207/VIRTUAL-PHOTOGRAPHY/aplaguetale/hugo20_z0esxq.png
 multipleColumn: true
 title: A Plague Tale; Innocence
-date: 2021-04-02
 tags:
 - outdoors
 - all

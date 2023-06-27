@@ -4,7 +4,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687466807/VIRTUAL-PHOTOGRAPHY/theorder1886_1_rmbzsc.jpg
 multipleColumn: true
 title: The Order 1886
-date: 2021-04-02
 tags:
 - work
 - portraits

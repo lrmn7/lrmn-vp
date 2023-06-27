@@ -6,7 +6,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687375342/VIRTUAL-PHOTOGRAPHY/hfw/lrmn-aloy_1_gjixao.png
 multipleColumn: true
 title: Horizon Forbidden West
-date: 2021-04-02
 tags:
 - portraits
 - all

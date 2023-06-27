@@ -6,7 +6,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687428485/VIRTUAL-PHOTOGRAPHY/godofwar/angrboda.transparent_xokcio.png
 multipleColumn: true
 title: God Of War
-date: 2021-04-02
 tags:
 - portraits
 - all

@@ -5,7 +5,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687461193/VIRTUAL-PHOTOGRAPHY/godofwar/godofwar2-lrmn_u9rch7.jpg
 multipleColumn: true
 title: God Of War
-date: 2021-04-02
 tags:
 - actionshots
 - all

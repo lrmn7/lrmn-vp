@@ -5,7 +5,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687377353/VIRTUAL-PHOTOGRAPHY/thelastofuspart1/tlou1_1_fivzuh.jpg
 multipleColumn: true
 title: The Last Of Us
-date: 2021-04-02
 tags:
 - actionshots
 - all

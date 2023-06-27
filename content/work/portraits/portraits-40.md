@@ -4,7 +4,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687467935/VIRTUAL-PHOTOGRAPHY/Caravaggesque-lrmn_qhh7bc.png
 multipleColumn: true
 title: Caravaggesque
-date: 2021-04-02
 tags:
 - work
 - portraits

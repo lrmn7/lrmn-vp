@@ -5,7 +5,6 @@ images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687460552/VIRTUAL-PHOTOGRAPHY/ghostoftsushima/got1-lrmn_natfbi.jpg
 multipleColumn: true
 title: Ghost Of Tsushima
-date: 2021-04-02
 tags:
 - actionshots
 - all

@@ -3,7 +3,6 @@ weight: 43
 images:
 - https://res.cloudinary.com/lrmn/image/upload/v1687468507/VIRTUAL-PHOTOGRAPHY/daysgone/dsyy_xeyla5.jpg
 title: Days Gone
-date: 2021-04-02
 tags:
 - actionshots
 - all
