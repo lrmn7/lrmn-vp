@@ -1,4 +1,4 @@
-baseURL: https://lrmn-vp.site   # todo: change site url.
+baseURL: https://lrmn.is-a.dev   # todo: change site url.
 title: L RMN # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
