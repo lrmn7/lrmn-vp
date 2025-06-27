@@ -1,4 +1,4 @@
-baseURL: https://lrmn-vp-em2.pages.dev   # todo: change site url.
+baseURL: https://vp.lrmn.link   # todo: change site url.
 title: L RMN # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
@@ -31,7 +31,7 @@ params:
       url: 'mailto:lrmn.dev@gmail.com'
       landing: false
     - icon: 'fa fa-globe fa-lg'
-      url: 'https://lrmn.site'
+      url: 'https://hi-lrmn.is-a.dev'
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/romanroman.nya'
     - icon: 'fab fa-pinterest fa-lg'
